@@ -7,3 +7,5 @@ bleble
 
 
 bjobjojfbofjo
+ “Input from local repo to be committed and uncommitted, the content is the same, only the commit is reversed.”
+ 
