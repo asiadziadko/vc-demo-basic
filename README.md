@@ -6,6 +6,4 @@ bleble
 "Input from remote repo to be pulled to local repo."
 
 
-bjobjojfbofjo
- “Input from local repo to be committed and uncommitted, the content is the same, only the commit is reversed.”
- 
+“Input from local repo to be reverted. The content will be gone but the commit stays in the history”
